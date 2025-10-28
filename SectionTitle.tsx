@@ -1,0 +1,1 @@
+import React from "react"; export default function SectionTitle({children}:{children:React.ReactNode}){return <h2 className="text-lg sm:text-xl font-semibold tracking-tight text-zinc-900">{children}</h2>;}
